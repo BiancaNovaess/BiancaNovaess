@@ -42,13 +42,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ### 
-
+  
+<img align="center" alt="Bia.pic"  height = "500" width="1000" src="https://media.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif">
+</div> 
 
 <div align="center"><br>
   <p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BiancaNovaess}/count.svg" /></p> <br>
 </div>
-  
-<img align="right" alt="Bia.pic"  height = "200" width="200" src="https://cdn.discordapp.com/attachments/986717227363491932/986726013553737869/ezgif.com-gif-maker.gif">
-</div> 
     
